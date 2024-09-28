@@ -72,11 +72,11 @@ const Signup = () => {
             />
           </div>
           <div className="item">
-            <label>Fullname</label>
+            <label>Email</label>
             <input type="text" placeholder="Email" name="email" required />
           </div>
           <div className="item">
-            <label>Fullname</label>
+            <label>Phone Number</label>
             <input
               type="number"
               placeholder="Phone Number"
@@ -85,7 +85,7 @@ const Signup = () => {
             />
           </div>
           <div className="item">
-            <label>Fullname</label>
+            <label>Password</label>
             <input
               type="password"
               placeholder="Password"
