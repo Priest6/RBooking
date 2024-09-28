@@ -42,7 +42,7 @@ const Header = () => {
           Get rewarded for your travels - unlock instant saving of 10% or more
           with a free account
         </p>
-        <button className="headerBtn">Sign in / Register</button>
+        {/* <button className="headerBtn">Sign in / Register</button> */}
         <div className="headerSearch">
           {/* --------select place-------- */}
           <div className="headerSearchItem">
